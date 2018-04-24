@@ -1,10 +1,6 @@
 <!DOCTYPE html/>
 <html>
-  <style>
-    background-color:Skyblue
-    }
-    </styl>
-<body>
+<body style="background-color:Skyblue;">
 <p>Dejmannn Enterprise</p>
 
 </body>
